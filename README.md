@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Disha Narkhede</h1>
-<h3 align="center">I am a passionate frontend developer And Eager To Learn New Technology from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
+
+
+
+- 🔭 I’m currently working on **mern stack**
+
+- 🌱 I’m currently learning **full stack development**
+
+- 👯 I’m looking to collaborate on **full stack design**
+
+- 🤝 I’m looking for help with **frontend development**
+
+- 💬 Ask me about **html,css,javascript,[mern stack]**
+
+- 📫 How to reach me **dishanarkhede1527@gmail.com**
+
+- ⚡ Fun fact **I love learning about new web technologies and enjoy solving coding challenges!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha1527&show_icons=true&locale=en" alt="disha1527" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha1527&" alt="disha1527" /></p>
-
