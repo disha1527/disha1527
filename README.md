@@ -1,32 +1,188 @@
-<h1 align="center">Hi 👋, I'm Disha Narkhede</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+# Hi 👋, I'm Disha Narkhede
 
+### 🚀 Full Stack Developer | MERN Stack | Python | AI & Automation
 
+I'm a passionate **Full Stack Developer and IT Trainer** from India who loves building practical web applications and exploring new technologies.
 
-- 🔭 I’m currently working on **mern stack**
+I mainly work with the **MERN Stack** and am currently expanding my skills in **Python, AI, Generative AI, AI Agents, and Automation**.
 
-- 🌱 I’m currently learning **full stack development**
+---
 
-- 👯 I’m looking to collaborate on **full stack design**
+## 👩‍💻 About Me
 
-- 🤝 I’m looking for help with **frontend development**
+* 🔭 Currently working with **MERN Stack & Web Development**
+* 👩‍🏫 Working as an **IT Trainer**
+* 🌱 Currently learning **Python, AI, Generative AI & Automation**
+* 🤖 Interested in **AI Agents and n8n Automation**
+* 💻 Experienced with **Frontend & Backend Development**
+* 🔐 Working with **JWT Authentication, REST APIs & MongoDB**
+* 🚀 Interested in building real-world **Full Stack Applications**
+* 🤝 Open to collaborating on **Full Stack, AI & Automation projects**
+* 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB & Python**
+* 📫 Reach me at **[dishanarkhede1527@gmail.com](mailto:dishanarkhede1527@gmail.com)**
 
-- 💬 Ask me about **html,css,javascript,[mern stack]**
+---
 
-- 📫 How to reach me **dishanarkhede1527@gmail.com**
+## 🛠️ Tech Stack
 
-- ⚡ Fun fact **I love learning about new web technologies and enjoy solving coding challenges!**
+### 💻 Frontend
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/disha-narkhede-a6a307252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/disha-narkhede-a6a307252" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### ⚙️ Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha1527&show_icons=true&locale=en&layout=compact" alt="disha1527" /></p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha1527&show_icons=true&locale=en" alt="disha1527" /></p>
+### 🗄️ Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha1527&" alt="disha1527" /></p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+**Also working with:**
+
+`JWT` `REST API` `Cloudinary` `Nodemailer` `Twilio` `n8n` `AI Automation` `GitHub` `Netlify` `Render` `MongoDB Atlas`
+
+---
+
+## 🤖 AI & Automation
+
+Currently exploring:
+
+* 🧠 AI Agents
+* ⚡ AI Automation
+* 🔄 n8n Workflows
+* 🤖 Generative AI
+* 🐍 Python Automation
+* 🎙️ AI Voice Assistants
+* 🖼️ AI Image Generation
+* 🔗 API Integration
+
+---
+
+## 🚀 Featured Projects
+
+### ☕ Smart Cafe – MERN Stack
+
+A complete smart cafe management system built using the MERN stack.
+
+**Features:**
+
+* 📱 QR Code Digital Menu
+* 🪑 Table Booking System
+* ⏰ Time-based Table Availability
+* 🚫 Overbooking Prevention
+* 👤 User Authentication
+* 🛒 Cart & Order Management
+* 👨‍💼 Admin Control
+* 💳 Booking & Refund Logic
+
+**Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+
+---
+
+### 🤖 AI Voice Assistant
+
+An AI-powered automation project that works with voice/audio input and integrates with automation workflows.
+
+**Tech:** `Python` `AI` `n8n` `Telegram` `APIs`
+
+---
+
+### 🖼️ Image Editor
+
+A web-based image editing application with a clean and interactive interface.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+   ↓
+Generative AI
+   ↓
+AI Agents
+   ↓
+n8n Automation
+   ↓
+AI + Full Stack Applications
+```
+
+---
+
+## 👩‍🏫 Teaching & Professional Experience
+
+I'm also working as an **IT Trainer**, where I teach and work with technologies including:
+
+* HTML & CSS
+* JavaScript
+* React
+* MERN Stack
+* Python
+* Web Development
+* AI & Automation
+
+I enjoy explaining technical concepts in a simple and practical way and helping students build real-world projects.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/disha-narkhede-a6a307252" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+📧 **Email:** [dishanarkhede1527@gmail.com](mailto:dishanarkhede1527@gmail.com)
+
+💻 **GitHub:** [disha1527](https://github.com/disha1527)
+
+🌐 **Portfolio:** [disha1527.github.io](https://disha1527.github.io)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=disha1527&show_icons=true&locale=en&layout=compact" alt="Disha's Top Languages"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=disha1527&show_icons=true&locale=en" alt="Disha's GitHub Stats"/>
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=disha1527" alt="Disha's GitHub Streak"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I love learning new technologies, building practical projects, teaching others, and solving coding challenges. 🚀
+
+### ⭐ Thanks for visiting my profile!
